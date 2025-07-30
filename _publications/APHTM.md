@@ -5,7 +5,7 @@ permalink: /publication/APHTM
 # excerpt: 'xxxx'
 date: 2024-09
 venue: 'EMNLP findings'
-paperurl: 'http://liujyuan.github.io/me/files/APHTM.pdf'
+paperurl: 'https://github.com/Liujyuan/me/blob/master/files/GeM.pdf'
 citation: 'Jiyuan Liu and Hegang Chen and Chunjiang Zhu, et al.'
 ---
 
