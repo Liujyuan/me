@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Master's student in the [School of Computer Science and Technology](http://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/). I am part of the research group led by Associate Professor [Yanghui Rao](https://scholar.google.com/citations?hl=en&user=qg7gv20AAAAJ).
 
-I earned my Bachelor of Engineering degree from the [Software College](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I was affiliated with the research group of Distinguished Professor [Yongshun Gong](https://scholar.google.com/citations?hl=en&user=qg7gv20AAAAJ), a "Qilu Young Scholar". I was recommended for postgraduate studies (exemption from examination) based on my academic performance, ranking in the top 8% (24/300).
+I earned my Bachelor of Engineering degree from the [Software College](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I was affiliated with the research group of Distinguished Professor [Yongshun Gong](https://scholar.google.com/citations?hl=en&user=qg7gv20AAAAJ). I was recommended for postgraduate studies (exemption from examination) based on my academic performance, ranking in the top 8% (24/300).
 
 My research interests include text knowledge mining, topic models, and LLM applications.
 
