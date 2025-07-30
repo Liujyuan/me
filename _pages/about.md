@@ -1,4 +1,3 @@
-Generated markdown
 ---
 permalink: /
 title: "About me"
