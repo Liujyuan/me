@@ -20,16 +20,10 @@ My research interests include text knowledge mining, topic models, and LLM appli
 *   **B.E. in Artificial Intelligence**, Shandong University, Jinan, China (2019.9 - 2023.6)
     *   GPA: 91.56/100
 
-## Research Work
-*   **GeM: Gaussian embeddings with Multi-hop graph transfer for next POI recommendation**
-    *   Wenqian Mu\*, **Jiyuan Liu**\*, Yongshun Gong, et al. (\*equal contribution)
-    *   *Neural Networks* (2025, CCF B, JCR Q1, journal full paper)
-    *   This work proposes the GeM model to address challenges in POI recommendation, specifically concerning users' long- and short-term interests and behavioral uncertainty. By combining Gaussian embeddings and multi-hop graph transfer, GeM captures complex user interests and patterns for more accurate predictions.
-
-*   **Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance**
-    *   **Jiyuan Liu**, Hegang Chen, Chunjiang Zhu, et al.
-    *   *Findings of EMNLP 2024* (CCF B, full paper)
-    *   This paper introduces the AP-HTM model to tackle issues of low topic quality and unclear structure in existing Hierarchical Topic Models (HTMs). The framework improves topic coherence and diversity by unsupervisedly detecting anchor words and guiding the text generation process within a Variational Autoencoder (VAE) framework.
+## Publications
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Selected Awards & Honors
 *   Second-class Academic Scholarship, School of Computer Science, Sun Yat-sen University, 2023
