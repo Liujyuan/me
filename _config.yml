@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jiyuan Liu"
 title_separator          : "-"
-name                     : &name "Jiyuan Liu2222"
+name                     : &name "Jiyuan Liu"
 description              : &description "Master student in SYSU"
 url                      : "https://liujyuan.github.io//me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
