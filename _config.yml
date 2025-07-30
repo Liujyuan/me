@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jiyuan Liu"
 title_separator          : "-"
 name                     : &name "Jiyuan Liu"
-description              : &description "Doctoral student in NJUST"
+description              : &description "Master student in SYSU"
 url                      : "https://liujyuan.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/me" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,15 +24,15 @@ author:
   avatar           : "profile.png"
   name             : "Jiyuan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral student in NJUST"
-  location         : "Nanjing, China"
+  bio              : "Master student in SYSU"
+  location         : "Guangzhou, China"
   #employer         : "Red Brick University"
   uri              : # URL
-  email            : "17756013567@163.com" 
+  email            : "liujy563@mail2.sysu.edu.cn@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=sx5zDfoAAAAJ"
+  googlescholar    : "https://scholar.google.com.hk/citations?user=JUtlq58AAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "Lingxianwen"
+  github           : #"Lingxianwen"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
