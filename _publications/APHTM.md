@@ -1,7 +1,7 @@
 ---
 title: "Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance"
 collection: publications
-permalink: /publication/2022-04-27-paper-title-number-1
+permalink: /publication/APHTM
 # excerpt: 'xxxx'
 date: 2024-09
 venue: 'EMNLP findings'
