@@ -1,11 +1,11 @@
 ---
-title: "Robustness of directed higher-order networks"
+title: "GeM: Gaussian embeddings with Multi-hop graph transfer for next POI recommendation"
 collection: publications
 permalink: /publication/2023-08-03-paper-title-number-2
-date: 2023-08-03
-venue: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+date: 2025-02
+venue: 'Neural Network'
 paperurl: 'http://lingxianwen.github.io/files/paper2.pdf'
-citation: 'Dandan Zhao; Xianwen Ling; Xiongtao Zhang; Hao Peng ; Ming Zhong ; Cheng Qian ; Wei Wang*'
+citation: 'Wenqian Mu* , Jiyuan Liu*, Yongshun Gong, et al. (*equcation contribution) '
 ---
 
-We propose a theoretical percolation model to analyze the robustness of directed higher-order networks. We study the size of the giant connected components and the percolation threshold of our proposed model by the theory and Monte-Carlo simulations on artificial networks and real-world networks. We find that the percolation threshold is affected by the inherent properties of higher-order networks, including the heterogeneity of the hyperdegree distribution and the hyperedge cardinality, which represents the number of nodes in the hyperedge. Increasing the hyperdegree distribution of heterogeneity or the hyperedge cardinality distribution of heterogeneity in higher-order networks will make the network more vulnerable, weakening the higher-order network’s robustness. In other words, adding higher-order directed edges enhances the robustness of the systems. Our proposed theory can reasonably predict the simulations for percolation on artificial and real-world directed higher-order networks.
+In this work, we present GeM, the first POI recommendation model that exploits Gaussian embedding and multi-hop graph transfer mechanisms. We introduce Gaussian distribution assumptions to capture the asymmetrical relation of POIs, and Mahalanobis distance is adopted to calculate the conditional probability distribution for recommendation. Furthermore, based on the global trajectory graph we constructed, we adopt a self-attention layer to obtain a basic transfer matrix, and the final recommendation based on the last ten POIs is obtained through a multi-hop aggregation layer, thus enhancing the learning of the objective connections inherent in POI. Matrix factorization is also used to obtain objective transfer distributions of POI about users. Finally, both subjective and objective aspects are integrated to produce complementary recommendations. We conducted a comprehensive ablation study and stability study in the experimental section to demonstrate the role of each component on recall and MRR metrics. The effect of variations in hyper-parameters on model performance was analyzed. Through a series of experiments on two real datasets, our model significantly outperformed all current state-of-the-art models on the two datasets.
