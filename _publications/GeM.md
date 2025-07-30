@@ -1,10 +1,10 @@
 ---
 title: "GeM: Gaussian embeddings with Multi-hop graph transfer for next POI recommendation"
 collection: publications
-permalink: /publication/2023-08-03-paper-title-number-2
+permalink: /publication/GeM
 date: 2025-02
 venue: 'Neural Network'
-paperurl: 'http://lingxianwen.github.io/files/paper2.pdf'
+paperurl: 'http://liujyuan.github.io/me/files/GeM.pdf'
 citation: 'Wenqian Mu* , Jiyuan Liu*, Yongshun Gong, et al. (*equcation contribution) '
 ---
 
