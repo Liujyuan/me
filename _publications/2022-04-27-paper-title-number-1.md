@@ -1,12 +1,12 @@
 ---
-title: "Disintegrate hypergraph networks by attacking hyperedge"
+title: "Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance"
 collection: publications
 permalink: /publication/2022-04-27-paper-title-number-1
 # excerpt: 'xxxx'
-date: 2022-04-27
-venue: 'Journal of King Saud University - Computer and Information Sciences'
+date: 2024-09
+venue: 'EMNLP findings'
 paperurl: 'http://lingxianwen.github.io/files/paper1.pdf'
-citation: 'Hao Peng, Cheng Qian, Dandan Zhao, Ming Zhong, Xianwen Ling, Wei Wang*'
+citation: 'Jiyuan Liu and Hegang Chen and Chunjiang Zhu, et al.'
 ---
 
 According to study results, 
