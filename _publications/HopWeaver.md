@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/HopWeaver
 date: 2024-03-10
 venue: 'Arxiv'
-paperurl: 'http://lingxianwen.github.io/files/HopWeaver.pdf'
+paperurl: 'http://Liujyuan.github.io//me/files/paper3.pdf'
 citation: ' Zhiyu Shen, Jiyuan Liu, Yunhe Pang, et al. '
 ---
 
