@@ -1,7 +1,7 @@
 ---
 title: "HopWeaver: Synthesizing Authentic Multi-hop Questions Across Text Corpora"
 collection: publications
-permalink: /publication/2024-03-10-paper-title-number-3
+permalink: /publication/HopWeaver
 date: 2024-03-10
 venue: 'Arxiv'
 paperurl: 'http://lingxianwen.github.io/files/paper3.pdf'
