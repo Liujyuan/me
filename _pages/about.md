@@ -1,3 +1,4 @@
+Generated markdown
 ---
 permalink: /
 title: "About me"
@@ -7,50 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I'm a First-year doctoral student from [School of Computer Science and Engineering](https://cs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/). 
+I am a Master's student in the [School of Computer Science and Technology](http://cse.sysu.edu.cn/) at [Sun Yat-sen University](https://www.sysu.edu.cn/). I am part of the research group led by Associate Professor [Yanghui Rao](https://scholar.google.com/citations?user=dzO8p-0AAAAJ&hl=zh-CN).
 
-I am very fortunate to be advised by [Prof. Kun Zhang](http://kunzhangcn.net/) from [School of CSE](https://www.njust.edu.cn/), NJUST. I also worked closely with [Prof. Hao Peng](https://mypage.zjnu.edu.cn/hpeng/zh_CN/) and [Prof. Wei Wang](https://gwgl.cqmu.edu.cn/info/1214/5264.htm) during my M.S. time.
+I earned my Bachelor of Engineering degree from the [Software College](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I was affiliated with the research group of Distinguished Professor [Yongshun Gong](https://scholar.google.com/citations?user=YNE_32AAAAAJ&hl=en), a "Qilu Young Scholar". I was recommended for postgraduate studies (exemption from examination) based on my academic performance, ranking in the top 8% (24/300).
 
-My research interest includes Network science, network security.
+My research interests include text knowledge mining, topic models, and LLM applications.
 
-## Education Experience
-* Ph.D in Nanjing, Nanjing University of Science and Technology, 2028 (expected)
-* M.S. in Jinhua, Zhejiang Normal University, 2021
-* B.S. in Tongling, Tongling University, 2017
+## Education
+*   **M.S. in Computer Science and Technology**, Sun Yat-sen University, Guangzhou, China (2023.9 - 2026.6, expected)
+    *   GPA: 84.1/100
+*   **B.E. in Artificial Intelligence**, Shandong University, Jinan, China (2019.9 - 2023.6)
+    *   GPA: 91.56/100
 
-## Skills
-* Network science
-  * Complex network modeling
-  * Network reliability analysis
-* Network security
-  * Protocol Reverse Engineering
+## Research Work
+*   **GeM: Gaussian embeddings with Multi-hop graph transfer for next POI recommendation**
+    *   Wenqian Mu\*, **Jiyuan Liu**\*, Yongshun Gong, et al. (\*equal contribution)
+    *   *Neural Networks* (2025, CCF B, JCR Q1, journal full paper)
+    *   This work proposes the GeM model to address challenges in POI recommendation, specifically concerning users' long- and short-term interests and behavioral uncertainty. By combining Gaussian embeddings and multi-hop graph transfer, GeM captures complex user interests and patterns for more accurate predictions.
 
-## Publications
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*   **Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance**
+    *   **Jiyuan Liu**, Hegang Chen, Chunjiang Zhu, et al.
+    *   *Findings of EMNLP 2024* (CCF B, full paper)
+    *   This paper introduces the AP-HTM model to tackle issues of low topic quality and unclear structure in existing Hierarchical Topic Models (HTMs). The framework improves topic coherence and diversity by unsupervisedly detecting anchor words and guiding the text generation process within a Variational Autoencoder (VAE) framework.
 
-## Journal Reviewer
-* International Journal of Autonomous and Adaptive Communications Systems
-  
-## Participate in a project or competition
-* ​Jiangsu Province Graduate Student Scientific Research and Practical Innovation Program, 2025-2026
-* National key research and development project (participation), 2023
-* National Innovation and Entrepreneurship Training Program (hosted), 2019.09-2020.05
-* The Huawei Cup Postgraduate Mathematical Modeling Competition third prize, 2021
-* China University Student Computer Design Competition, 2020
-* Anhui University Student Service Outsourcing Innovation and Entrepreneurship Competition first prize, 2020
-* Anhui Internet of Things Innovation Competition first prize, 2020
-* Anhui Province mathematics contest second prize, 2020
-* Anhui Province information security works competition third prize, 2020
-* Anhui Province Network Attack and Defense Competition (CTF) second prize, 2020
-* Anhui Computer Design Competition second prize, 2020
-* Anhui Robot Competition Program Design Class (ACM) third prize, 2019
+## Selected Awards & Honors
+*   Second-class Academic Scholarship, School of Computer Science, Sun Yat-sen University, 2023
+*   Outstanding Graduate, Shandong University Software College, 2023
+*   Second-class Academic Scholarship/Cultural and Sports Scholarship, Shandong University Software College, 2021, 2022
 
-## Honors & Awards
-* National Scholarship, 2023
-* Special Award of President of Zhejiang Normal University, 2023
-* Outstanding Graduate of Zhejiang Normal University, 2023
-* Outstanding Graduate of Anhui province, 2016
+## Professional Skills
+*   Proficient in using PyTorch and LLM fine-tuning frameworks.
+*   Good English reading and writing skills (CET-4: 602, CET-6: 491).
 
-[Email](mailto:lingxw@njust.edu.cn) / [Github](https://github.com/Lingxianwen) / [CSDN](https://lingxw.blog.csdn.net/)
+[Email](mailto:liujy563@mail2.sysu.edu.cn) / [Github](https://github.com/Liujyuan) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=JUtlq58AAAAJ)
+
