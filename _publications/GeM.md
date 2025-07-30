@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/GeM
 date: 2025-02
 venue: 'Neural Network'
-paperurl: 'http://liujyuan.github.io/me/files/GeM.pdf'
+paperurl: 'http://Liujyuan.github.io//me/files/paper2.pdf'
 citation: 'Wenqian Mu* , Jiyuan Liu*, Yongshun Gong, et al. (*equcation contribution) '
 ---
 
