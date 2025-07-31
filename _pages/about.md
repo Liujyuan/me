@@ -30,7 +30,7 @@ My research interests include text knowledge mining, topic models, and LLM appli
 *   Second-class Academic Scholarship/Cultural and Sports Scholarship, Shandong University Software College, 2021, 2022
 
 ## Professional Skills
-*   Proficient in using PyTorch and LLM fine-tuning frameworks.
+*   Proficient in using PyTorch and LLM post-train fine-tuning frameworks.
 *   Good English reading and writing skills (CET-4: 602, CET-6: 491).
 
 [Email](mailto:liujy563@mail2.sysu.edu.cn) / [Github](https://github.com/Liujyuan) / [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=JUtlq58AAAAJ)
