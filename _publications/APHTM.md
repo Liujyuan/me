@@ -3,7 +3,7 @@ title: "Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and 
 collection: publications
 permalink: /publication/APHTM
 # excerpt: 'xxxx'
-date: 2024-09
+date: 2024-09-01
 venue: 'EMNLP findings'
 paperurl: 'http://Liujyuan.github.io//me/files/paper1.pdf'
 citation: 'Jiyuan Liu and Hegang Chen and Chunjiang Zhu, et al.'
