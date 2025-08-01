@@ -2,7 +2,7 @@
 title: "HopWeaver: Synthesizing Authentic Multi-hop Questions Across Text Corpora"
 collection: publications
 permalink: /publication/HopWeaver
-date: 2024-03-10
+date: 2025-07-10
 venue: 'Arxiv'
 paperurl: 'http://Liujyuan.github.io//me/files/paper3.pdf'
 citation: ' Zhiyu Shen, Jiyuan Liu, Yunhe Pang, et al. '
