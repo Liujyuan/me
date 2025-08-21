@@ -11,7 +11,7 @@ I am a Master's student in the [School of Computer Science and Technology](http:
 
 I earned my Bachelor of Engineering degree from the [Software College](https://www.sc.sdu.edu.cn/) at [Shandong University](https://www.sdu.edu.cn/), where I was affiliated with the research group of Distinguished Professor [Yongshun Gong](https://scholar.google.com/citations?hl=en&user=qg7gv20AAAAJ). I was recommended for postgraduate studies (exemption from examination) based on my academic performance, ranking in the top 8% (24/300).
 
-My research interests include knowledge mining and discovery (topic models, concept alignment and other LLM applications).
+My research interests include knowledge mining and discovery, specifically exploring AI co-scientists, topic models, concept alignment, and other LLM applications.
 
 ## Education
 *   **M.S. in Computer Science and Technology**, Sun Yat-sen University, Guangzhou, China (2023.9 - 2026.6, expected)
