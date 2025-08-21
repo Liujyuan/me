@@ -1,11 +1,11 @@
 ---
-title: "HopWeaver: Synthesizing Authentic Multi-hop Questions Across Text Corpora"
+title: "CARE: A Disagreement Detection Framework with Concept Alignment and Reasoning Enhancement"
 collection: publications
-permalink: /publication/HopWeaver
-date: 2025-07-10
-venue: 'Arxiv'
-paperurl: 'http://Liujyuan.github.io//me/files/paper3.pdf'
-citation: ' Zhiyu Shen, Jiyuan Liu, Yunhe Pang, et al. '
+permalink: /publication/CARE
+date: 2025-08-21
+venue: 'EMNLP main'
+paperurl: 'http://Liujyuan.github.io//me/files/paper5.pdf'
+citation: ' Jiyuan Liu, Jielin Song, Yunhe Pang, et al. '
 ---
 
-We presented HopWeaver, a fully automatic framework for synthesizing authentic multi-hop questions (bridge and comparison) from raw text corpora. Our experiments demonstrate that HopWeaver meets or exceeds human-level benchmarks across multiple evaluation dimensions and scales effectively with various LLMs. These capabilities make HopWeaver a practical solution for constructing complex MHQA datasets in domains where human annotation is limited. Our comprehensive evaluation system also provides valuable metrics for evaluating synthesized question quality, reducing cost compared to manual annotation.
+Disagreement detection is a crucial task in natural language processing (NLP), particularly in analyzing online discussions and social media content. Large language models (LLMs) have demonstrated significant advancements across various NLP tasks. However, the performance of LLM in disagreement detection is limited by two issues: *conceptual gap* and *reasoning gap*. In this paper, we propose a novel two-stage framework, Concept Alignment and Reasoning Enhancement (CARE), to tackle the issues. The first stage, Concept Alignment, addresses the gap between expert and model by performing **sub-concept taxonomy extraction**, aligning the model's comprehension with human experts. The second stage, Reasoning Enhancement, improves the model's reasoning capabilities by introducing curriculum learning workflow, which includes **rationale to critique** and **counterfactual to detection** for reducing spurious association. Extensive experiments on disagreement detection task demonstrate the effectiveness of our framework, showing superior performance in zero-shot and supervised learning settings, both within and across domains.
