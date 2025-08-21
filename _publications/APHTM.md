@@ -2,6 +2,10 @@
 title: "Unsupervised Hierarchical Topic Modeling via Anchor Word Clustering and Path Guidance"
 collection: publications
 permalink: /publication/APHTM
+tags:
+  - cool posts
+  - category1
+  - category2
 # excerpt: 'xxxx'
 date: 2024-09-01
 venue: 'EMNLP findings'
