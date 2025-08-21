@@ -25,11 +25,13 @@ My research interests include knowledge mining and discovery, specifically explo
   {% endfor %}</ul>
 
 ## Selected Awards & Honors
-*   Second-class Academic Scholarship | School of Computer Science, Sun Yat-sen University | 2023
-*   Outstanding Graduate | Software College, Shandong University | 2023
-*   "Power of Role Models" Star of the Branch Award | Software College, Shandong University | 2022
-*   Second-class Academic Scholarship | Software College, Shandong University | 2020, 2021
-*   Second-class Cultural and Sports Scholarship | Software College, Shandong University | 2020
+| Award / Honor | Awarding Institution | Year(s) |
+| :--- | :--- | :--- |
+| Second-class Academic Scholarship | School of Computer Science, Sun Yat-sen University | 2023 |
+| Outstanding Graduate | Software College, Shandong University | 2023 |
+| "Power of Role Models" Star of the Branch Award | Software College, Shandong University | 2022 |
+| Second-class Academic Scholarship | Software College, Shandong University | 2020, 2021 |
+| Second-class Cultural and Sports Scholarship | Software College, Shandong University | 2020 |
 
 
 ## Professional Skills
